@@ -1,7 +1,7 @@
-'use strict';
+'use strict'
 
-module.exports = function IndexModel() {
-    return {
-        name: 'myApp'
-    };
-};
+module.exports = function IndexModel(){
+	return {
+		viewName:"school"
+	};
+} ;

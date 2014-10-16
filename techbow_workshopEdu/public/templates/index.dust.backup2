@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap 101 Template</title>
+    <title>EYYT Techbow workshop Education showcase</title>
 
     <!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -23,11 +23,11 @@
 
     <!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
-   
   </head>
-  <body>
 
+
+
+  <body>
 	<div class = "top-head-container">
 		<div class="row">
 		  <div class="col-md-6">
@@ -50,7 +50,7 @@
 		  </div>	
 		</div>
 	</div>
-	
+
 	<div class="navbar-container">
 		<ul class="nav nav-pills">
 		  <li><a href="#" class="slideDown">COURSES</a></li>
@@ -62,7 +62,7 @@
 		  <li><a href="#" class="slideDown">CONTACTS</a></li>		  
 		</ul>
 	</div>
-
+	
 	<div id="panel" class="slide-Down-panle">
 	    {> "{viewName}" /}
 	</div>
@@ -75,6 +75,9 @@ $(document).ready(function(){
 </script>
 	
 
-    
+
+		
+
+
   </body>
 </html>
